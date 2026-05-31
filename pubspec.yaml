@@ -1,0 +1,27 @@
+name: pulse_brief
+description: A professional Flutter news digest app with categories, details, and saved articles.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts:
+  flutter_svg:
+  url_launcher:
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/illustrations/
