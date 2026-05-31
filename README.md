@@ -1,4 +1,4 @@
-# PulseBrief
+<img width="390" height="854" alt="explor" src="https://github.com/user-attachments/assets/15e528e0-1783-4163-bbca-721479fb34e5" /># PulseBrief
 
 ## Project Overview
 
@@ -20,11 +20,11 @@ News apps are a strong academic project choice because they naturally demonstrat
 
 ## Screens
 
-- Home Screen![alt text](home.png)
-- Explore News Screen![alt text](explor.png)
-- News Details Screen![alt text](detalis.png)
-- Saved Articles Screen![alt text](saved.png)
-- About/Profile Screen![alt text](about.png)
+- Home Screen
+- Explore News 
+- News Details 
+- Saved Articles 
+- About/Profile 
 
 ## Folder Structure
 
@@ -77,7 +77,12 @@ flutter run
 
 ## Screenshots Placeholder
 
-Add screenshots for Home, Explore, Details, Saved Articles, and About after running the app on a device or emulator.
+<img width="390" height="848" alt="home" src="https://github.com/user-attachments/assets/340d06eb-3119-43e7-9bfd-05ead1387746" />
+<img width="384" height="849" alt="saved" src="https://github.com/user-attachments/assets/13496c14-277f-4ef4-8c78-1df7b516e064" />
+<img width="390" height="854" alt="explor" src="https://github.com/user-attachments/assets/7c5ea45c-d8e6-4f4f-ad03-c0015c987565" />
+<img width="390" height="854" alt="detalis" src="https://github.com/user-attachments/assets/32728e38-53f5-4bd2-b528-93f6cf30117f" />
+<img width="380" height="848" alt="about" src="https://github.com/user-attachments/assets/364065af-e6ea-4530-b3d9-f7b18a1f6b2d" />
+
 
 ## Future Improvements
 
