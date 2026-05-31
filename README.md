@@ -20,11 +20,11 @@ News apps are a strong academic project choice because they naturally demonstrat
 
 ## Screens
 
-- Home Screen
-- Explore News Screen
-- News Details Screen
-- Saved Articles Screen
-- About/Profile Screen
+- Home Screen![alt text](home.png)
+- Explore News Screen![alt text](explor.png)
+- News Details Screen![alt text](detalis.png)
+- Saved Articles Screen![alt text](saved.png)
+- About/Profile Screen![alt text](about.png)
 
 ## Folder Structure
 
