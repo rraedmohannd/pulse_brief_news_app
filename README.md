@@ -1,4 +1,4 @@
-<img width="390" height="854" alt="explor" src="https://github.com/user-attachments/assets/15e528e0-1783-4163-bbca-721479fb34e5" /># PulseBrief
+# PulseBrief
 
 ## Project Overview
 
